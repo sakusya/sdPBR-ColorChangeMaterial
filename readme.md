@@ -51,6 +51,3 @@ sdPBR用色変えマテリアル
 
     5. 必要に応じて、sdPBRColorController.pmxの対応するモーフで色を調整する
 
-## 使い方(詳細)
-
-sdPBRColorController.pmx
